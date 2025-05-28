@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\glm.cppm.obj",
+            "outputs": [
+                "D:\\study_OpenGL\\openGL_files\\P_4\\P_4\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\study_OpenGL\\openGL_files\\P_4\\P_4\\x64\\Debug\\glm.cppm.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "glm",
+                    "source-path": "d:\\study_opengl\\opengl_files\\p_4\\p_4\\src\\vendor\\glm\\glm.cppm",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
